@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "garga-dam",
+    "name": "Garga Dam",
+    "description": "An earthen dam on the Garga river that supplies Bokaro Steel City, with open water and low hills behind it, used for picnics and winter birdwatching.",
+    "district": "Bokaro",
+    "type": "dam",
+    "images": [
+      "/images/destinations/garga-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.6167,
+      "lng": 86.0833
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Bokaro district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "jawaharlal-nehru-biological-park",
+    "name": "Jawaharlal Nehru Biological Park",
+    "description": "Jawaharlal Nehru Biological Park or JNB is a zoological garden located in Bokaro Steel City, Jharkhand, India, fully owned and managed by Bokaro Steel Plant, Steel Authority of India Limited. This is the largest zoological garden of the state.",
+    "district": "Bokaro",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/jawaharlal-nehru-biological-park.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Bokaro district, Jharkhand. Nearest major road and rail links are via Bokaro town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Biological_Park"
+  },
+  {
+    "slug": "sri-sri-kalika-maharani-temple",
+    "name": "Sri Sri Kalika Maharani Temple",
+    "description": "Sri Sri Kalika Maharani Temple is a Hindu temple in  Bokaro in the state of Jharkhand, India is a Hindu temple at Chira Chas, built by Aashiyaan Estate Developers. The temple is spread over half an acre and is dedicated to Goddess Kali. The mini township of Kalika Vihar is named after this temple.",
+    "district": "Bokaro",
+    "type": "temple",
+    "images": [
+      "/images/destinations/sri-sri-kalika-maharani-temple.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.6559342,
+      "lng": 86.1794213
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Bokaro district, Jharkhand. Nearest major road and rail links are via Bokaro town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sri_Sri_Kalika_Maharani_Temple"
+  },
+  {
+    "slug": "baidyanath-temple",
+    "name": "Baidyanath Temple",
+    "description": "Baidyanath Temple (IAST: Baidyãnath) is a Hindu temple dedicated to Shiva. It is located in Deoghar, in the Santhal Parganas division of the Indian state of Jharkhand. The temple complex comprises the central shrine of Baba Baidyanath along with 21 additional temples. It is significant to the Hindu sects of Shaivism as this temple is referred to as one of the twelve Jyotirlingas.",
+    "district": "Deoghar",
+    "type": "temple",
+    "images": [
+      "/images/destinations/baidyanath-temple.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.4925,
+      "lng": 86.7
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Deoghar district, Jharkhand. Nearest major road and rail links are via Deoghar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baidyanath_Temple"
+  },
+  {
+    "slug": "jasidih",
+    "name": "Jasidih",
+    "description": "Jasidih is a satellite town of Deoghar under the Deoghar subdivision of Deoghar district in the Indian state of Jharkhand. This town's railway station connects Deoghar to other cities.",
+    "district": "Deoghar",
+    "type": "hill",
+    "images": [
+      "/images/destinations/jasidih.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.522,
+      "lng": 86.6477
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Deoghar district, Jharkhand. Nearest major road and rail links are via Deoghar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jasidih"
+  },
+  {
+    "slug": "naulakha-temple-deoghar",
+    "name": "Naulakha Temple, Deoghar",
+    "description": "The Naulakha Temple is a Hindu temple located in Deoghar, Jharkhand, India. It is dedicated to the Hindu deities Radha and Krishna.",
+    "district": "Deoghar",
+    "type": "temple",
+    "images": [
+      "/images/destinations/naulakha-temple-deoghar.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Deoghar district, Jharkhand. Nearest major road and rail links are via Deoghar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Naulakha_Temple%2C_Deoghar"
+  },
+  {
+    "slug": "trikut-hill",
+    "name": "Trikut Hill",
+    "description": "Trikut Pahar, Trikut Hills or Trikutachal, is a Hindu pilgrimage site located approximately 15 km from Deoghar, in the Mohanpur Block of Deoghar District, Jharkhand, India, en route to Dumka. Named for its three prominent peaks (\"tri-\" meaning three), the hill rises to an elevation of 2,470 feet. Revered for its spiritual significance, Trikut Hill attracts devotees and visitors seeking its serene landscapes and panoramic views, making it a cherished natural and cultural landmark in Jharkhand.\nA ropeway previously facilitated access to the summit to the top of the hill, but operations were halted following a cable car accident in April 2022 that resulted in three fatalities.",
+    "district": "Deoghar",
+    "type": "hill",
+    "images": [
+      "/images/destinations/trikut-hill.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.499,
+      "lng": 86.837
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Deoghar district, Jharkhand. Nearest major road and rail links are via Deoghar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Trikut_Hill"
+  },
+  {
+    "slug": "bhatinda-falls",
+    "name": "Bhatinda Falls",
+    "description": "Bhatinda Falls is a waterfall located in Dhanbad, Jharkhand, approximately 14 km from Dhanbad railway station. It is tucked away in the rough hillocks and verdant vegetation that surround it. The falls are surrounded by enormous boulders of rock.",
+    "district": "Dhanbad",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/bhatinda-falls.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Dhanbad district, Jharkhand. Nearest major road and rail links are via Dhanbad town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bhatinda_Falls"
+  },
+  {
+    "slug": "dhanbad",
+    "name": "Dhanbad",
+    "description": "Dhanbad is the second-most populated city in the Indian state of Jharkhand after Jamshedpur and a major financial hub of Jharkhand. In terms of economy, Dhanbad has the largest economy in the state of and is often referred to as the 'economic capital of Jharkhand'. Dhanbad is also an emerging center for manufacturing industries. The Dhanbad district is known for its cultural heritage and has few tourist attractions, making it a well-rounded destination.",
+    "district": "Dhanbad",
+    "type": "city",
+    "images": [
+      "/images/destinations/dhanbad.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.7998,
+      "lng": 86.4305
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Dhanbad district, Jharkhand. Nearest major road and rail links are via Dhanbad town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dhanbad"
+  },
+  {
+    "slug": "panchet-dam",
+    "name": "Panchet Dam",
+    "description": "Panchet Dam   was the last of the four multi-purpose dams included in the first phase of the Damodar Valley Corporation (DVC). It was constructed across the Damodar River at Panchet in Dhanbad district in the Indian state of Jharkhand, and opened in 1959.",
+    "district": "Dhanbad",
+    "type": "dam",
+    "images": [
+      "/images/destinations/panchet-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.68194444,
+      "lng": 86.74777778
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Dhanbad district, Jharkhand. Nearest major road and rail links are via Dhanbad town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Panchet_Dam"
+  },
+  {
+    "slug": "raja-talab",
+    "name": "Raja Talab",
+    "description": "Raja Talab is a large man-made lake located at Jharia Jharkhand, India.",
+    "district": "Dhanbad",
+    "type": "lake",
+    "images": [
+      "/images/destinations/raja-talab.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Dhanbad district, Jharkhand. Nearest major road and rail links are via Dhanbad town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Raja_Talab"
+  },
+  {
+    "slug": "topchanchi-wildlife-sanctuary",
+    "name": "Topchanchi Wildlife Sanctuary",
+    "description": "Topchanchi Wildlife Sanctuary is an 8.75 km2 (3.38 sq mi) protected area located near the town of Topchanchi, Jharkhand. The sanctuary is situated alongside National Highway 2. Land in the sanctuary mainly consists of dry mixed deciduous forests with dry peninsular sal forests.",
+    "district": "Dhanbad",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/topchanchi-wildlife-sanctuary.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Dhanbad district, Jharkhand. Nearest major road and rail links are via Dhanbad town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Topchanchi_Wildlife_Sanctuary"
+  },
+  {
+    "slug": "basukinath",
+    "name": "Basukinath",
+    "description": "Basukinath is a temple town and notified area in the Dumka, Jharkhand, India.",
+    "district": "Dumka",
+    "type": "temple",
+    "images": [
+      "/images/destinations/basukinath.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.39,
+      "lng": 87.08
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Dumka district, Jharkhand. Nearest major road and rail links are via Dumka town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Basukinath"
+  },
+  {
+    "slug": "basukinath-temple",
+    "name": "Basukinath Temple",
+    "description": "Basukinath Temple also known as Baba Basukinath Dham is a Hindu temple dedicated to Shiva, located in the town of Basukinath, Dumka district in the Indian state of Jharkhand. It is an important pilgrimage site in eastern India and forms part of the spiritual circuit with Deoghar. Pilgrims visiting Baidyanath Dham in Deoghar typically continue their journey to Basukinath, about 45 km away to offer prayers at the temple. The Basukinath complex contains total of 30 shrines and hosts major festivals such as Shravani Mela and Maha Shivaratri which attract large numbers of devotees annually.",
+    "district": "Dumka",
+    "type": "temple",
+    "images": [
+      "/images/destinations/basukinath-temple.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Dumka district, Jharkhand. Nearest major road and rail links are via Dumka town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Basukinath_Temple"
+  },
+  {
+    "slug": "maluti-temples",
+    "name": "Maluti temples",
+    "description": "Maluti temples are a group of 72 extant terracotta temples (out of the original number of 108), located in the Maluti village near Shikaripara in Dumka district on the eastern part of the Chota Nagpur Plateau, Indian state of Jharkhand. These temples, according to the Indian Trust for Rural Heritage and Development (ITRHD), were built between the 17th and 19th centuries. The kings of Baj Basanta dynasty built these temples in Maluti, their capital, inspired by goddess Mowlakshi, their family deity. Many of the temples are deified with different denominations of gods and goddesses, apart from the tutelary deity Mowlakshi, and others such as Shiva, Durga, Kali and Vishnu.",
+    "district": "Dumka",
+    "type": "temple",
+    "images": [
+      "/images/destinations/maluti-temples.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.15,
+      "lng": 87.66666667
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Dumka district, Jharkhand. Nearest major road and rail links are via Dumka town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maluti_temples"
+  },
+  {
+    "slug": "massanjore-dam",
+    "name": "Massanjore Dam",
+    "description": "Massanjore Dam is a hydropower generating dam over the Mayurakshi River located at Massanjore near Dumka in the state of Jharkhand, India. The Massanjore dam (also called Canada Dam), across the Mayurakshi, was commissioned in 1955. It was formally inaugurated by Lester B. Pearson, Foreign Minister of Canada.",
+    "district": "Dumka",
+    "type": "dam",
+    "images": [
+      "/images/destinations/massanjore-dam.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "August to February",
+    "howToReach": "Dumka district, Jharkhand. Nearest major road and rail links are via Dumka town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Massanjore_Dam"
+  },
+  {
+    "slug": "pathrol-kali-temple-madhupur",
+    "name": "Pathrol Kali Temple, Madhupur",
+    "description": "Maa Pathrol Kali Temple (Hindi: माँ पथरोल काली) is a hindu temple located in Madhupur, Deoghar in the Santhal Parganas division of the state of Jharkhand, India. It is roughly 7 km from the Madhupur Town. The temple consists of a shrine dedicated to Goddess Kali. It is one of the oldest and sacred temple in Madhupur which was built by Raja Digvijay Singh about 6 to 7 centuries ago.",
+    "district": "Dumka",
+    "type": "temple",
+    "images": [
+      "/images/destinations/pathrol-kali-temple-madhupur.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Dumka district, Jharkhand. Nearest major road and rail links are via Dumka town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pathrol_Kali_Temple%2C_Madhupur"
+  },
+  {
+    "slug": "chakulia",
+    "name": "Chakulia",
+    "description": "Chakulia or Chakuliya is a Notified Area Council (NAC) and 4th Municipal Corporation in the Ghatshila subdivision of the East Singhbhum district in the state of Jharkhand, India. It is 71 km from Jamshedpur City, the district headquarter.\nChakulia is known for its non-operational Chakulia Airport, Kanaishwar Hill, bamboo trees, detergent powder brand \"Hindustan Soap Factory\" and its beautiful nature. Chakulia is always in news headlines due to hundreds of Elephants roams in Chakulia forest area.",
+    "district": "East Singhbhum",
+    "type": "hill",
+    "images": [
+      "/images/destinations/chakulia.jpg"
+    ],
+    "coordinates": {
+      "lat": 22.48,
+      "lng": 86.72
+    },
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chakulia"
+  },
+  {
+    "slug": "dalma-hills",
+    "name": "Dalma Hills",
+    "description": "Dalma range refers to the continuation of an assemblage of hills stretching over Jharkhand and West Bengal states in India.",
+    "district": "East Singhbhum",
+    "type": "hill",
+    "images": [
+      "/images/destinations/dalma-hills.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dalma_Hills"
+  },
+  {
+    "slug": "dalma-wildlife-sanctuary",
+    "name": "Dalma Wildlife Sanctuary",
+    "description": "Dalma Wildlife Sanctuary is a wildlife sanctuary in the Indian state of Jharkhand. It was inaugurated in 1975 and provides habitat for an Indian elephant population.",
+    "district": "East Singhbhum",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/dalma-wildlife-sanctuary.jpg"
+    ],
+    "coordinates": {
+      "lat": 22.90416667,
+      "lng": 86.21638889
+    },
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dalma_Wildlife_Sanctuary"
+  },
+  {
+    "slug": "dimna-lake",
+    "name": "Dimna Lake",
+    "description": "Dimna Lake is an artificial reservoir located near Dalma Wildlife Sanctuary, 15 km from the city of Jamshedpur, in the state of Jharkhand, India. Constructed in 1944, by Tata Steel to deal with the water scarcity in the city.",
+    "district": "East Singhbhum",
+    "type": "lake",
+    "images": [
+      "/images/destinations/dimna-lake.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dimna_Lake"
+  },
+  {
+    "slug": "ghatshila",
+    "name": "Ghatshila",
+    "description": "A former copper town on the Subarnarekha, ringed by low hills and long used as a rest station by Bengali travellers. Phuldungri hill, the riverside ghats and the house where the writer Bibhutibhushan Bandyopadhyay stayed are the usual stops.",
+    "district": "East Singhbhum",
+    "type": "hill",
+    "images": [
+      "/images/destinations/ghatshila.jpg"
+    ],
+    "coordinates": {
+      "lat": 22.5833,
+      "lng": 86.4667
+    },
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "jamshedpur",
+    "name": "Jamshedpur",
+    "description": "Jamshedpur (Hindi: [d͡ʒəmˈʃeːd̪pʊɾ] ; Bengali: [ˈd͡ʒamʃedpuɾ]), also known as Tatanagar, is a major industrial city in eastern India. Located on the confluence of Swarnarekha and Kharkai rivers, the city is surrounded by Dalma Hills. It is the largest city in the state of Jharkhand. With a population of 629,658 in the city limits and 1.3 million in the wider metropolitan area, Jamshedpur is the third largest metropolitan area in the region and 36th largest urban area in the country and 72nd most populous city in the country.",
+    "district": "East Singhbhum",
+    "type": "hill",
+    "images": [
+      "/images/destinations/jamshedpur.jpg"
+    ],
+    "coordinates": {
+      "lat": 22.7925,
+      "lng": 86.18416667
+    },
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jamshedpur"
+  },
+  {
+    "slug": "jubilee-park-jamshedpur",
+    "name": "Jubilee Park, Jamshedpur",
+    "description": "Jubilee Park is an urban park located in Jamshedpur, Jharkhand, India. It is a popular destination for all those who wish to have an outdoor picnic, enjoy some outdoor activities and games or even just to have a relaxing day out with friends and family. Popular amongst joggers and cyclists, it is a gigantic park, recreation centre, fountains and a zoo, amongst other attractions.\nThis local attraction was opened to the public in 1958, on the occasion of the city's golden jubilee, the 50th anniversary of establishment.",
+    "district": "East Singhbhum",
+    "type": "park",
+    "images": [
+      "/images/destinations/jubilee-park-jamshedpur.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jubilee_Park%2C_Jamshedpur"
+  },
+  {
+    "slug": "rankini-temple-jadugora",
+    "name": "Rankini Temple, Jadugora",
+    "description": "Rankini Mandir, also known as Kapadgadi Ghat Rankini Mandir is a temple situated in Rohinibera village of Bansila Gram Panchayat in Potka block, near Jadugora, Jamshedpur in Jharkhand in India. It is located near the Hata-Jadugora State Highway. The stone that is the murthi is believed to be a physical incarnation of Goddess Rankini. It is widely believed that during ancient times, people travelling through the dense forest used to worship at the Rankini Devi temple for their protection and well being.",
+    "district": "East Singhbhum",
+    "type": "temple",
+    "images": [
+      "/images/destinations/rankini-temple-jadugora.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rankini_Temple%2C_Jadugora"
+  },
+  {
+    "slug": "sarhul",
+    "name": "Sarhul",
+    "description": "Sarhul is a spring festival celebrated in the Indian state of Jharkhand, marking the commencement of the new year. The festival lasts for three days, from the third day of the Chaitra month in Shukla Paksha to Chaitra Purnima. During the festival, the village priest, known as the Pahan offers a sacrifice of flowers, fruits, vermilion, a rooster, and tapan (liquor) in the Sarna to the Sun, the village deity, and the ancestors for the prosperity of the village. After the rituals, locals dance while holding Sal flowers.",
+    "district": "East Singhbhum",
+    "type": "other",
+    "images": [
+      "/images/destinations/sarhul.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sarhul"
+  },
+  {
+    "slug": "sohrai",
+    "name": "Sohrai",
+    "description": "Sohrai is a harvest festival celebrated in the Indian states of Jharkhand, West Bengal, Chhattisgarh, Odisha, and Bihar. It is also called the cattle festival. The festival is observed after the harvest and coincides with Govardhan Puja during Diwali. In Santal Parganas, it is celebrated in the month of January.",
+    "district": "East Singhbhum",
+    "type": "other",
+    "images": [
+      "/images/destinations/sohrai.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "East Singhbhum district, Jharkhand. Nearest major road and rail links are via East Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sohrai"
+  },
+  {
+    "slug": "palamau-tiger-reserve",
+    "name": "Palamau Tiger Reserve",
+    "description": "Palamau Tiger Reserve is a tiger reserve in India and the only one in the state of Jharkhand. It covers a total area of 1,129.93 km2 (436.27 sq mi) in the Palamu, Latehar and Garhwa districts. It comprises the Betla National Park. It is one of the first nine tiger reserves in  India declared in 1973.",
+    "district": "Garhwa",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/palamau-tiger-reserve.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.7,
+      "lng": 84.19
+    },
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Garhwa district, Jharkhand. Nearest major road and rail links are via Garhwa town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Palamau_Tiger_Reserve"
+  },
+  {
+    "slug": "khandoli-dam",
+    "name": "Khandoli Dam",
+    "description": "Khandoli Dam (Hindi: खंडोली डैम) is a dam located 10 km North-East of Giridih town towards Bengabad in Jharkhand, India. Khandoli is also an important tourist spot at the foot of the Khandoli hill.  The reservoir of the Khandoli dam provides water supply to more than one lakh residents of the Giridih city.\nRecently the urban development department has made plans to desilt the Khandoli lake after decades.",
+    "district": "Giridih",
+    "type": "dam",
+    "images": [
+      "/images/destinations/khandoli-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.23944444,
+      "lng": 86.34861111
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Giridih district, Jharkhand. Nearest major road and rail links are via Giridih town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Khandoli_Dam"
+  },
+  {
+    "slug": "parasnath",
+    "name": "Parasnath",
+    "description": "Parasnath Hill (also Sammet Shikhar, Marang Buru) is a mountain peak in the Parasnath hill range. It is located towards the eastern end of the Chota Nagpur Plateau in the Giridih district (Hazaribagh district in British India) of the Indian state of Jharkhand. The hill is named after Parshvanatha, the 23rd Jain Tirthankara, who attained liberation here in 8th century BCE. In this connection, there is the holiest Jain pilgrimage, Shikharji on the top of hill. The hill is also known as Sammet Shikhar (lit. 'great mountain', the supreme deity) by other autochthonous of the region in religious contexts.",
+    "district": "Giridih",
+    "type": "hill",
+    "images": [
+      "/images/destinations/parasnath.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.9634,
+      "lng": 86.129
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Giridih district, Jharkhand. Nearest major road and rail links are via Giridih town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Parasnath"
+  },
+  {
+    "slug": "shikharji",
+    "name": "Shikharji",
+    "description": "Shikharji (Śikharjī), also known as Sammet or Sammed Shikharji, is one of the holiest pilgrimage sites for Jains, in Giridih district, Jharkhand. It is located on Parasnath hill, the highest mountain in the state of Jharkhand. It is the most important Jain Tirtha (pilgrimage site), for it is believed to be the place where twenty of the twenty-four Jain tirthankaras (supreme preachers of dharma) along with many other monks attained moksha. It is one of the seven principal pilgrimage destinations along with Girnar, Pawapuri, Champapuri, Dilwara, Palitana, and Ashtapad Kailash.",
+    "district": "Giridih",
+    "type": "temple",
+    "images": [
+      "/images/destinations/shikharji.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.96111111,
+      "lng": 86.13708333
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Giridih district, Jharkhand. Nearest major road and rail links are via Giridih town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shikharji"
+  },
+  {
+    "slug": "usri-falls",
+    "name": "Usri Falls",
+    "description": "Usri Falls is a waterfall located in Giridih district in the Indian state of Jharkhand. It is a popular tourist and picnic spot. Ushree means a \"beautiful source\".",
+    "district": "Giridih",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/usri-falls.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.09638889,
+      "lng": 86.37055556
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Giridih district, Jharkhand. Nearest major road and rail links are via Giridih town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Usri_Falls"
+  },
+  {
+    "slug": "rajmahal-hills",
+    "name": "Rajmahal hills",
+    "description": "The Rajmahal Hills are located in the Santhal Pargana division of Jharkhand, India. They were located on the northern margin of the Gondwana supercontinent, and its hills are today inhabited by the Sauria Paharia people whilst its valleys are dominated by the Santhal people. The hills span over an area of 2,600 km2 (1,000 sq mi).\nVolcanic activity during the Jurassic resulted in the formation of the Rajmahal Traps.",
+    "district": "Godda",
+    "type": "hill",
+    "images": [
+      "/images/destinations/rajmahal-hills.jpg"
+    ],
+    "coordinates": {
+      "lat": 25,
+      "lng": 87
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Godda district, Jharkhand. Nearest major road and rail links are via Godda town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rajmahal_hills"
+  },
+  {
+    "slug": "kapilnath-temple",
+    "name": "Kapilnath Temple",
+    "description": "Kapilnath Temple near Navratangarh, is a 17th-century temple dedicated to Shiva in Gumla district of Jharkhand. It was built by  king Ram Shah in 1643 CE. Many people come to worship daily and in Shivratri festival.",
+    "district": "Gumla",
+    "type": "temple",
+    "images": [
+      "/images/destinations/kapilnath-temple.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Gumla district, Jharkhand. Nearest major road and rail links are via Gumla town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kapilnath_Temple"
+  },
+  {
+    "slug": "charowa-dam",
+    "name": "Charowa dam",
+    "description": "Charowa dam, (also known as Charwa dam), is situated in the midst of four hills in Hazaribagh district, Jharkhand, India. The Charawa dam reservoir is known to fill up beyond the safe level during the monsoon, most recently in 2017, when spill gates were opened to prevent unsafe levels.\nThe reservoir is home to various vulture species, including the largest and the smallest vultures, the Himalayan  vulture and the Egyptian vulture respectively. Critically Endangered species like the Indian vulture and White-rumped vulture are also found here.",
+    "district": "Hazaribagh",
+    "type": "dam",
+    "images": [
+      "/images/destinations/charowa-dam.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "August to February",
+    "howToReach": "Hazaribagh district, Jharkhand. Nearest major road and rail links are via Hazaribagh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charowa_dam"
+  },
+  {
+    "slug": "harihar-dham",
+    "name": "Harihar Dham",
+    "description": "Harihar Dham temple, commonly known as Harihar Dham located in Bagodar,  Giridih, of Indian state of Jharkhand has the distinction of having Shivalinga.",
+    "district": "Hazaribagh",
+    "type": "temple",
+    "images": [
+      "/images/destinations/harihar-dham.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.07,
+      "lng": 85.82111111
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Hazaribagh district, Jharkhand. Nearest major road and rail links are via Hazaribagh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harihar_Dham"
+  },
+  {
+    "slug": "hazaribagh-jheel",
+    "name": "Hazaribagh jheel",
+    "description": "Hazaribagh jheel is a series of artificial lakes with seven parts all on different levels so that water spills over to the other lake through a spill channel.\nIt conserves water and supplies to people living in Hazaribagh. It was constructed by the British in 1831 when they were building the central jail in Hazaribagh. Construction of the jail required huge amounts of clay, leaving four big craters which became lakes.",
+    "district": "Hazaribagh",
+    "type": "lake",
+    "images": [
+      "/images/destinations/hazaribagh-jheel.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Hazaribagh district, Jharkhand. Nearest major road and rail links are via Hazaribagh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hazaribagh_jheel"
+  },
+  {
+    "slug": "hazaribagh-wildlife-sanctuary",
+    "name": "Hazaribagh Wildlife Sanctuary",
+    "description": "Hazaribagh Wildlife Sanctuary is a wildlife sanctuary in Jharkhand, India, about 55 miles (89 km) north of Ranchi. It was established in 1955. It is home to many wild animals including deer, monkey and birds.",
+    "district": "Hazaribagh",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/hazaribagh-wildlife-sanctuary.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.1474,
+      "lng": 85.36
+    },
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Hazaribagh district, Jharkhand. Nearest major road and rail links are via Hazaribagh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hazaribagh_Wildlife_Sanctuary"
+  },
+  {
+    "slug": "konar-dam",
+    "name": "Konar Dam",
+    "description": "Konar Dam is the second of the four multi-purpose dams included in the first phase of the Damodar Valley Corporation. It was constructed across the Konar River, a tributary of the Damodar River in Hazaribagh district in the Indian state of Jharkhand and opened in 1955. The place has been developed as a recreational spot.",
+    "district": "Hazaribagh",
+    "type": "dam",
+    "images": [
+      "/images/destinations/konar-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.94111111,
+      "lng": 85.775
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Hazaribagh district, Jharkhand. Nearest major road and rail links are via Hazaribagh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Konar_Dam"
+  },
+  {
+    "slug": "sanskriti-museum-art-gallery",
+    "name": "Sanskriti Museum & Art Gallery",
+    "description": "Sanskriti Museum & Art Gallery, Hazaribagh was founded by Bulu Imam in 1991, after he discovered the first rockart of Hazaribagh district at Isco, subsequently bringing to light over dozen meso-chalcolithic rockarts, including the prehistoric archaeology of the North Karanpura Valley in Jharkhand.\nThe Sanskriti museum displays a comprehensive collection of Palaeolithic to Neolithic stone tools, microliths, and bronze to Iron Age artifacts, including potteries and Buddhist antiquities from around the Hazaribagh region. It also has an ethnological gallery dedicated to the Birhors, Santhals, and Oraons along with monographs compiled on their Life, Folklore, Songs, Ethnobotany, available in the museum research archives, and library. It also has a gallery of  local crafts and textile, and an art gallery over about 200 Khovar (marriage art) and Sohrai (harvest art) paintings of Hazaribagh exhibited and displayed.",
+    "district": "Hazaribagh",
+    "type": "museum",
+    "images": [
+      "/images/destinations/sanskriti-museum-art-gallery.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Hazaribagh district, Jharkhand. Nearest major road and rail links are via Hazaribagh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sanskriti_Museum_%26_Art_Gallery"
+  },
+  {
+    "slug": "maithon-dam",
+    "name": "Maithon Dam",
+    "description": "The Maithon Dam is located at Maithon, 48 km from Dhanbad, in the state of Jharkhand India.It is just 24 km from Asansol city and one of the topmost visited place in Asansol region.\n15,712 ft (4,789 m) long and 165 ft (50 m) high.\nMaithon Dam is 194 km away from Ranchi. It is one of the biggest dams in Jharkhand.",
+    "district": "Jamtara",
+    "type": "dam",
+    "images": [
+      "/images/destinations/maithon-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.85027778,
+      "lng": 86.77777778
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Jamtara district, Jharkhand. Nearest major road and rail links are via Jamtara town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maithon_Dam"
+  },
+  {
+    "slug": "amreshwar-dham",
+    "name": "Amreshwar Dham",
+    "description": "Angrabari or Amreshwar Dham located near Khunti, Jharkhand, is a Hindu temple complex dedicated to the Hindu deity Shiva. The temple is built and maintained by Amreshvar Dham Prabandh Samiti. It was renamed as Amreshwar Dham by the Sage Shankaracharya Swami Swarupananda Saraswati. It is situated on the Khunti-Torpa road NH-20 approximately 45 km (28 mi) from Ranchi, the capital city of Jharkhand, and 9 km (5.6 mi) from the district headquarters.",
+    "district": "Khunti",
+    "type": "temple",
+    "images": [
+      "/images/destinations/amreshwar-dham.png"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Khunti district, Jharkhand. Nearest major road and rail links are via Khunti town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amreshwar_Dham"
+  },
+  {
+    "slug": "panchghagh-falls",
+    "name": "Panchghagh Falls",
+    "description": "Panchghagh Falls is a waterfall located in Khunti district in the Indian state of Jharkhand.",
+    "district": "Khunti",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/panchghagh-falls.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Khunti district, Jharkhand. Nearest major road and rail links are via Khunti town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Panchghagh_Falls"
+  },
+  {
+    "slug": "tilaiya-dam",
+    "name": "Tilaiya Dam",
+    "description": "Tilaiya Dam  was the first of the four multi-purpose dams included in the first phase of the Damodar Valley Corporation. It was constructed across the Barakar River, at Tilaiya in Koderma district in the Indian state of Jharkhand and opened in 1953.",
+    "district": "Koderma",
+    "type": "dam",
+    "images": [
+      "/images/destinations/tilaiya-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 24.32388889,
+      "lng": 85.52111111
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Koderma district, Jharkhand. Nearest major road and rail links are via Koderma town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tilaiya_Dam"
+  },
+  {
+    "slug": "lodh-falls",
+    "name": "Lodh Falls",
+    "description": "The Lodh Falls (also known as Budha Ghagh) is a waterfall on the Burha River in the mid-forest  of Palamau Tiger Reserve, in Latehar district of Jharkhand state in India. It is the highest waterfall in Jharkhand and the 21st highest waterfall in India.",
+    "district": "Latehar",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/lodh-falls.png"
+    ],
+    "coordinates": {
+      "lat": 23.48055556,
+      "lng": 84.01944444
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Latehar district, Jharkhand. Nearest major road and rail links are via Latehar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lodh_Falls"
+  },
+  {
+    "slug": "lower-ghaghri-falls",
+    "name": "Lower Ghaghri Falls",
+    "description": "Lower Ghaghri Falls  is located 10 kilometres (6.2 mi) from Netarhat in Latehar district in the Indian state of Jharkhand. It is the 33rd highest waterfall in India. It is known for its mesmerizing beauty and a major tourist attraction in Jharkhand.\nThis waterfall is situated on the Ghaghri River, tributary of Auranga River.",
+    "district": "Latehar",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/lower-ghaghri-falls.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.53155,
+      "lng": 84.24591
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Latehar district, Jharkhand. Nearest major road and rail links are via Latehar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lower_Ghaghri_Falls"
+  },
+  {
+    "slug": "mahuadanr-wolf-sanctuary",
+    "name": "Mahuadanr Wolf Sanctuary",
+    "description": "Mahuadanr Wolf Sanctuary is a wildlife sanctuary located in Latehar district of Jharkhand. It is part of Palamau Tiger Reserve. It was declared to be a wildlife sanctuary in 1976 for the protection of the  Indian wolf. Its the only wildlife sanctuary in India dedicated exclusively to the Indian grey wolf.",
+    "district": "Latehar",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/mahuadanr-wolf-sanctuary.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Latehar district, Jharkhand. Nearest major road and rail links are via Latehar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mahuadanr_Wolf_Sanctuary"
+  },
+  {
+    "slug": "netarhat",
+    "name": "Netarhat",
+    "description": "Netarhat is a hill station in Latehar district in the Indian state of Jharkhand. The hill station is among the highest points of the Chotanagpur plateau. It is known for the natural beauty of hills, forest and waterfalls. It is also referred to as the \"Queen of Chotanagpur\".",
+    "district": "Latehar",
+    "type": "hill",
+    "images": [
+      "/images/destinations/netarhat.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.47527778,
+      "lng": 84.26722222
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Latehar district, Jharkhand. Nearest major road and rail links are via Latehar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Netarhat"
+  },
+  {
+    "slug": "palamu-fort",
+    "name": "Palamu fort",
+    "description": "The  Palamu Fort are two ruined forts located 3 k.m from  Betla National Park, Latehar district on the bank of Auranga River, in the Indian state of Jharkhand. The original fort in the plains and the other on an adjoining hill are attributed to the kings of the Chero dynasty. The fort in the plains had defences on three sides and three main gates. The New fort was constructed by Raja Medini Ray.",
+    "district": "Latehar",
+    "type": "fort",
+    "images": [
+      "/images/destinations/palamu-fort.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.8946,
+      "lng": 84.2328
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Latehar district, Jharkhand. Nearest major road and rail links are via Latehar town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Palamu_fort"
+  },
+  {
+    "slug": "lawapani-falls",
+    "name": "Lawapani Falls",
+    "description": "The Lawapani Falls is a waterfall located in Madanpur village of Lohardaga district in the Indian state of Jharkhand.",
+    "district": "Lohardaga",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/lawapani-falls.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Lohardaga district, Jharkhand. Nearest major road and rail links are via Lohardaga town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lawapani_Falls"
+  },
+  {
+    "slug": "mccluskieganj",
+    "name": "McCluskieganj",
+    "description": "McCluskieganj is a small hilly town in Jharkhand State, India, about 40 miles (64 km) northwest of the capital, Ranchi. The town used to have a significant Anglo-Indian community. It is now a tourist place for its British era old mansions, hills and streams.",
+    "district": "Lohardaga",
+    "type": "hill",
+    "images": [
+      "/images/destinations/mccluskieganj.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.64,
+      "lng": 84.94
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Lohardaga district, Jharkhand. Nearest major road and rail links are via Lohardaga town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/McCluskieganj"
+  },
+  {
+    "slug": "betla-national-park",
+    "name": "Betla National Park",
+    "description": "Betla National Park is a national park located in the Latehar and Palamu district of Jharkhand, India. Its the only national park in the state. It is spread over an area of 226.32 km2 (87.38 sq mi) and is a part of the  Palamu Tiger Reserve.  It was declared a national park in 1986.",
+    "district": "Palamu",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/betla-national-park.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.87,
+      "lng": 84.19
+    },
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Palamu district, Jharkhand. Nearest major road and rail links are via Palamu town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Betla_National_Park"
+  },
+  {
+    "slug": "chhinnamasta-temple-rajrappa",
+    "name": "Chhinnamasta Temple, Rajrappa",
+    "description": "Chhinnamastika Temple is a Hindu temple, dedicated to Goddess Chinnamasta is a Hindu pilgrimage centre located in Rajrappa, in Ramgarh district of Jharkhand, India.  The place attracts devotees from all parts of Jharkhand, and also from the neighbouring states of West Bengal and Bihar. The Chhinnamasta temple is  popular for its Tantric style of architectural design.  Apart from the main temple, there are ten temples of various deities such as the Surya, Hanuman and Shiva.",
+    "district": "Ramgarh",
+    "type": "temple",
+    "images": [
+      "/images/destinations/chhinnamasta-temple-rajrappa.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.63222222,
+      "lng": 85.69388889
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ramgarh district, Jharkhand. Nearest major road and rail links are via Ramgarh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chhinnamasta_Temple%2C_Rajrappa"
+  },
+  {
+    "slug": "getalsud-dam",
+    "name": "Getalsud Dam",
+    "description": "Getalsud Dam is an artificial reservoir situated in Ormanjhi, Ranchi, Jharkhand. It was constructed across the Subarnarekha River and was opened in 1971. It is a popular picnic spot for the residents of Ranchi and Ramgarh District. The dam provides a small-scale fishing opportunity to the local people of Rukka.",
+    "district": "Ramgarh",
+    "type": "dam",
+    "images": [
+      "/images/destinations/getalsud-dam.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "August to February",
+    "howToReach": "Ramgarh district, Jharkhand. Nearest major road and rail links are via Ramgarh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Getalsud_Dam"
+  },
+  {
+    "slug": "jama-mosque-ramgarh",
+    "name": "Jama Mosque, Ramgarh",
+    "description": "The Jame Mosque, or Jama Masjid, is a Friday mosque located in Chitarpur town in the Ramgarh district in the state of Jharkhand, India. Built in 1670 by Mughal rulers in the Mughal style, it is one of the oldest mosques of the state. The mosque holds daily prayer sessions.",
+    "district": "Ramgarh",
+    "type": "temple",
+    "images": [
+      "/images/destinations/jama-mosque-ramgarh.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.571,
+      "lng": 85.652
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ramgarh district, Jharkhand. Nearest major road and rail links are via Ramgarh town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jama_Mosque%2C_Ramgarh"
+  },
+  {
+    "slug": "patratu-valley",
+    "name": "Patratu Valley",
+    "description": "A winding ghat road descending through forested hills to the Patratu reservoir, with a series of viewpoints along the switchbacks. The valley drive from Ranchi is among the most photographed stretches of road in Jharkhand, best in the hour before sunset.",
+    "district": "Ramgarh",
+    "type": "hill",
+    "images": [
+      "/images/destinations/patratu-valley.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.6333,
+      "lng": 85.2833
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Ramgarh district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "rajrappa",
+    "name": "Rajrappa",
+    "description": "The confluence of the Damodar and Bhairavi rivers, where the Bhairavi drops into the larger river beside the Chhinnamasta temple. The falls and the shrine are visited as one site.",
+    "district": "Ramgarh",
+    "type": "heritage",
+    "images": [
+      "/images/destinations/rajrappa.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.6333,
+      "lng": 85.7167
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Ramgarh district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "chota-nagpur-plateau",
+    "name": "Chota Nagpur Plateau",
+    "description": "The Chota Nagpur Plateau (IPA: [t͡ʃʰoːʈaː naːɡpʊɾ]) is a plateau in eastern India, which covers much of Jharkhand state as well as adjacent parts of Chhattisgarh,  Odisha, West Bengal and Bihar. The Indo-Gangetic Plain lies to the north and east of the plateau, and the basin of the Mahanadi River lies to the south. The total area of the Chota Nagpur Plateau is approximately 65,000 square kilometres (25,000 sq mi).",
+    "district": "Ranchi",
+    "type": "hill",
+    "images": [
+      "/images/destinations/chota-nagpur-plateau.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.35,
+      "lng": 85.33333333
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chota_Nagpur_Plateau"
+  },
+  {
+    "slug": "dassam-falls",
+    "name": "Dassam Falls",
+    "description": "The Dassam Falls (also known as Dassam Ghagh) is a waterfall located near Taimara village in the Bundu subdivision of Ranchi district in the Indian state of Jharkhand. The Falls are 144 feet in height, formed by the waterflow of the Kanchi River.",
+    "district": "Ranchi",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/dassam-falls.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.143358,
+      "lng": 85.466441
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dassam_Falls"
+  },
+  {
+    "slug": "dhurwa-dam",
+    "name": "Dhurwa Dam",
+    "description": "The Dhurwa Dam (Hindi: धुर्वा बाँध Dhurvā Bāndh), officially known as Hatia Dam, is a significant dam on the Subarnarekha River in Ranchi, Jharkhand.",
+    "district": "Ranchi",
+    "type": "dam",
+    "images": [
+      "/images/destinations/dhurwa-dam.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "August to February",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dhurwa_Dam"
+  },
+  {
+    "slug": "hundru-falls",
+    "name": "Hundru Falls",
+    "description": "Hundru Falls is a waterfall located in Ranchi District in the Indian state of Jharkhand. It is the 34th highest waterfall in India, and one of the most famous tourist places in the region.",
+    "district": "Ranchi",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/hundru-falls.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.45,
+      "lng": 85.65
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hundru_Falls"
+  },
+  {
+    "slug": "jagannath-temple-ranchi",
+    "name": "Jagannath Temple, Ranchi",
+    "description": "Jagannath Temple is a Hindu temple in Ranchi, Jharkhand, India's 17th-century temple dedicated to Lord Jagannath.\nThe temple stands atop a hillock approximately 10 kilometres from the main town and is accessible by both a staircase and a motorable path.  It is built in the Kalinga architectural style, resembling the Jagannath Temple of Puri, albeit on a smaller scale. Similar to the car festival in Puri, an Rath Yatra and annual fair is held at this temple in the month of Aashaadha, attracting thousands of tribal and non-tribal devotees from Ranchi and neighbouring areas.",
+    "district": "Ranchi",
+    "type": "temple",
+    "images": [
+      "/images/destinations/jagannath-temple-ranchi.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.31694444,
+      "lng": 85.28166667
+    },
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jagannath_Temple%2C_Ranchi"
+  },
+  {
+    "slug": "jonha-falls",
+    "name": "Jonha Falls",
+    "description": "The Jonha Falls (also called Gautamdhara Falls) is a waterfall located in Ranchi district in the Indian state of Jharkhand.",
+    "district": "Ranchi",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/jonha-falls.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jonha_Falls"
+  },
+  {
+    "slug": "kanke-dam",
+    "name": "Kanke Dam",
+    "description": "A dam on the Potpoto stream supplying north Ranchi, with the Rock Garden on the hillside above and a promenade along the embankment used for evening walks.",
+    "district": "Ranchi",
+    "type": "dam",
+    "images": [
+      "/images/destinations/kanke-dam.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.4269,
+      "lng": 85.32
+    },
+    "bestSeason": "August to February",
+    "howToReach": "Ranchi district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "maa-dewri-temple",
+    "name": "Maa Dewri Temple",
+    "description": "Maa Dewri Temple is an ancient temple, situated in Diuri village, Tamar near Ranchi in Jharkhand in India.   The main attraction of the temple is, 700 year old murti of 16-armed village deity Maa Dewri. It is an ancient temple and was renovated few years back. The ancient temple was constructed by interlocking stones without using chalk or binding material.",
+    "district": "Ranchi",
+    "type": "temple",
+    "images": [
+      "/images/destinations/maa-dewri-temple.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maa_Dewri_Temple"
+  },
+  {
+    "slug": "pahari-mandir",
+    "name": "Pahari Mandir",
+    "description": "Pahari Mandir is a temple located on a hilltop in Ranchi  the capital of Jharkhand. The temple is dedicated to Shiva.  This temple is located at 2140 feet above sea level and 350 feet above the ground. Shiva is worshipped in linga form in the hill temple.",
+    "district": "Ranchi",
+    "type": "temple",
+    "images": [
+      "/images/destinations/pahari-mandir.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pahari_Mandir"
+  },
+  {
+    "slug": "rabindra-bhawan-ranchi",
+    "name": "Rabindra Bhawan, Ranchi",
+    "description": "Rabindra Bhawan is an upcoming cultural centre located near Kutchery Chowk in Ranchi, Jharkhand. The complex is dedicated to Rabindranath Tagore, the Nobel laureate poet, writer and philosopher. Developed by JUIDCO, it is intended to promote performing arts, literature, and cultural activities in the state. The foundation stone was laid on 2 April 2017 by the then President of India, Pranab Mukherjee, in the presence of the Chief Minister of Jharkhand, Raghubar Das.",
+    "district": "Ranchi",
+    "type": "museum",
+    "images": [
+      "/images/destinations/rabindra-bhawan-ranchi.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rabindra_Bhawan%2C_Ranchi"
+  },
+  {
+    "slug": "ranchi-lake",
+    "name": "Ranchi Lake",
+    "description": "Ranchi Lake, popularly known as Ranchi Talab or Bada Talab, is a freshwater lake in Ranchi, Jharkhand, India. It is situated at the base of Ranchi Hill and spans over 53 acres. It has a 33-feet statue of Swami Vivekananda.",
+    "district": "Ranchi",
+    "type": "lake",
+    "images": [
+      "/images/destinations/ranchi-lake.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ranchi_Lake"
+  },
+  {
+    "slug": "ranchi-science-centre",
+    "name": "Ranchi Science Centre",
+    "description": "Ranchi Science Centre is the first science centre in the state of Jharkhand in India, under Jharkhand Council on Science & Technology (JCST) of Department of Science & Technology, Government of Jharkhand (GOJ). The centre comprises two storied building that houses three permanent thematic galleries of covered area 42,000 square meter on an area of 13 acre land, provided by Government of Jharkhand, at Chiraundi village, Morhabadi near the Tagore Hill adjacent to Ranchi town at a capital cost of Rs. 87.5 crore or $1,374,494 which has been shared equally by Government of Jharkhand and Government of India. The science centre has been developed by the National Council of Science Museums (NCSM), a wing of Ministry of Culture, Govt.",
+    "district": "Ranchi",
+    "type": "museum",
+    "images": [
+      "/images/destinations/ranchi-science-centre.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.407,
+      "lng": 85.34
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ranchi_Science_Centre"
+  },
+  {
+    "slug": "rock-garden-ranchi",
+    "name": "Rock Garden, Ranchi",
+    "description": "A terraced garden cut into the rocky hillside beside Kanke Dam, with sculptures, waterfall features and a cave-like rest house. Usually combined with the adjacent Gonda Hill and the dam promenade in a single evening.",
+    "district": "Ranchi",
+    "type": "park",
+    "images": [
+      "/images/destinations/rock-garden-ranchi.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.4333,
+      "lng": 85.3167
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "sita-falls",
+    "name": "Sita Falls",
+    "description": "Sita Falls  is a waterfall located in Ranchi district in the Indian state of Jharkhand.",
+    "district": "Ranchi",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/sita-falls.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.34166667,
+      "lng": 85.64388889
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sita_Falls"
+  },
+  {
+    "slug": "sita-falls-ranchi",
+    "name": "Sita Falls, Ranchi",
+    "description": "A quieter fall on the same Radhu river system as Jonha, reached by a path down through sal forest. Usually visited together with Jonha on the eastern circuit out of Ranchi.",
+    "district": "Ranchi",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/sita-falls-ranchi.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.34,
+      "lng": 85.63
+    },
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Ranchi district, Jharkhand. Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": ""
+  },
+  {
+    "slug": "st-mary-s-cathedral-ranchi",
+    "name": "St. Mary's Cathedral, Ranchi",
+    "description": "St. Mary's Cathedral is one of the oldest church of the Ranchi, in the Chota Nagpur Plateau area. Catholics and Christian faithful working  as tea gardens in Tea Estates area, Railway along with the farmers were the early community of the church.",
+    "district": "Ranchi",
+    "type": "temple",
+    "images": [
+      "/images/destinations/st-mary-s-cathedral-ranchi.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/St._Mary's_Cathedral%2C_Ranchi"
+  },
+  {
+    "slug": "state-museum-ranchi",
+    "name": "State Museum, Ranchi",
+    "description": "State Museum Hotwar is an Indian cultural museum located in Ranchi, in the Indian state of Jharkhand. The current secretary of the museum is Vandana Dandel.",
+    "district": "Ranchi",
+    "type": "museum",
+    "images": [
+      "/images/destinations/state-museum-ranchi.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/State_Museum%2C_Ranchi"
+  },
+  {
+    "slug": "surya-temple-ranchi",
+    "name": "Surya Temple, Ranchi",
+    "description": "The Surya Temple or Surya Mandir (Hindi: सूर्य मंदिर, रांची), located near Bundu, is a Hindu temple complex dedicated to the solar deity, Surya.\nIt is situated on top of a hill, on the NH-43 (Ranchi-Tata Road), approximately  40 km (25 mi) from the capital city of Jharkhand, Ranchi. The temple is constructed in the form of huge chariot with elegantly designed eighteen wheels and seven naturalistic horses. The temple also houses several other deities including Shiva, Parvati and Ganesha.",
+    "district": "Ranchi",
+    "type": "temple",
+    "images": [
+      "/images/destinations/surya-temple-ranchi.png"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Surya_Temple%2C_Ranchi"
+  },
+  {
+    "slug": "tagore-hill",
+    "name": "Tagore Hill",
+    "description": "The Tagore Hill also known as Morabadi Hill is situated in Morabadi, Ranchi, Jharkhand. It is around 300 meter high (900 feet) and 4 kilometers away from Albert Ekka Chowk. The hilltop has a long associated history with the revered poet and Nobel Laureate Rabindranath Tagore. Rabindranath Tagore's elder brother Jyotirindranath Tagore settled here in 1912 after the death of his wife, Kadambari Devi.",
+    "district": "Ranchi",
+    "type": "hill",
+    "images": [
+      "/images/destinations/tagore-hill.jpg"
+    ],
+    "coordinates": {
+      "lat": 23.401,
+      "lng": 85.338
+    },
+    "bestSeason": "October to March",
+    "howToReach": "Ranchi district, Jharkhand. Nearest major road and rail links are via Ranchi town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tagore_Hill"
+  },
+  {
+    "slug": "bindudham",
+    "name": "Bindudham",
+    "description": "Bindudham, also known as Binduwasni Mandir, is a Hindu Temple, is located at Barharwa in Sahibganj District of Indian state Jharkhand and dedicated to the Maha Durga (Kali), Maha Lakshmi and Maha Saraswati (Tridevi) in the form of Shakta pitha. Binduwasni Mandir is at the top of the \"Binduwasni hill\". The main temple has a statue of the Hindu god Surya (Sun). He is seated in a Seven horsed Rath (an old Indian royal horse cart).",
+    "district": "Sahibganj",
+    "type": "temple",
+    "images": [
+      "/images/destinations/bindudham.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "All year; busiest during festival season",
+    "howToReach": "Sahibganj district, Jharkhand. Nearest major road and rail links are via Sahibganj town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bindudham"
+  },
+  {
+    "slug": "moti-jharna",
+    "name": "Moti Jharna",
+    "description": "Moti Jharna is a village in Taljhari CD block in Rajmahal subdivision of Sahibganj district in the Indian state of Jharkhand.",
+    "district": "Sahibganj",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/moti-jharna.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "Sahibganj district, Jharkhand. Nearest major road and rail links are via Sahibganj town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Moti_Jharna"
+  },
+  {
+    "slug": "rajmahal-traps",
+    "name": "Rajmahal Traps",
+    "description": "The Rajmahal Traps is a volcanic igneous province in Eastern India, covering the parts of Jharkhand, West Bengal and Meghalaya. The Rajmahal Hills of Jharkhand is the type area of this province. Multiple layers of solidified lava made the 608-metre-thick (1,995 ft) Rajmahal Traps which are dipping 2–5° towards the north-east. Individual layers vary in thickness from less than one metre (3 ft 3 in) to more than 70 metres (230 ft).",
+    "district": "Sahibganj",
+    "type": "hill",
+    "images": [
+      "/images/destinations/rajmahal-traps.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "October to March",
+    "howToReach": "Sahibganj district, Jharkhand. Nearest major road and rail links are via Sahibganj town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rajmahal_Traps"
+  },
+  {
+    "slug": "chandil-dam",
+    "name": "Chandil Dam",
+    "description": "Chandil Dam was built across the Subarnarekha, in Bihar (later Jharkhand), as a part of the Subarnarekha Multipurpose Project.",
+    "district": "Seraikela-Kharsawan",
+    "type": "dam",
+    "images": [
+      "/images/destinations/chandil-dam.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "August to February",
+    "howToReach": "Seraikela-Kharsawan district, Jharkhand. Nearest major road and rail links are via Seraikela-Kharsawan town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chandil_Dam"
+  },
+  {
+    "slug": "palkot-wildlife-sanctuary",
+    "name": "Palkot Wildlife Sanctuary",
+    "description": "Palkot Wildlife Sanctuary is a wildlife sanctuary located near Palkot. It is spread over Gumla and Simdega districts of Jharkhand in India. The sanctuary cover total area of 182.83 km2 (70.59 sq mi).",
+    "district": "Simdega",
+    "type": "wildlife",
+    "images": [
+      "/images/destinations/palkot-wildlife-sanctuary.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "November to March, when animals gather at waterholes",
+    "howToReach": "Simdega district, Jharkhand. Nearest major road and rail links are via Simdega town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Palkot_Wildlife_Sanctuary"
+  },
+  {
+    "slug": "hirni-falls",
+    "name": "Hirni Falls",
+    "description": "Hirni Falls is a waterfall located in West Singhbhum in the Indian state of Jharkhand.",
+    "district": "West Singhbhum",
+    "type": "waterfall",
+    "images": [
+      "/images/destinations/hirni-falls.jpg"
+    ],
+    "coordinates": null,
+    "bestSeason": "July to October, when the falls are in full flow",
+    "howToReach": "West Singhbhum district, Jharkhand. Nearest major road and rail links are via West Singhbhum town; Ranchi (RNC) is the closest airport for most of the state.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hirni_Falls"
+  }
+]
